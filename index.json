@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "graphcast",
+  "versions": [
+    {
+      "commit": "f2f2c5117d2f864e2d5e7c2f9f220db5e1049dd3",
+      "tag": "",
+      "parsed_at": "2026-11-08T12:18:51.443810+00:00"
+    }
+  ]
+}
